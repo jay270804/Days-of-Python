@@ -1,4 +1,4 @@
-from CoffeeData import menu
+from coffee_data import menu
 from typing import Dict
 
 def dispense_coffee(coffee, resources) -> Dict:

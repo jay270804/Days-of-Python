@@ -1,4 +1,4 @@
-from CoffeeData import menu
+from coffee_data import menu
 from transactions import insert_coins
 from resources import dispense_coffee, display_report, check_resources
 
